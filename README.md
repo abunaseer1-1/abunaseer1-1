@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Abdullah
 
-<!--
-**abunaseer1-1/abunaseer1-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Network Systems Engineer | Python & AI | CCNA Certified**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **I’m passionate about:**
+- 🚀 Building **AI-Powered Server Monitoring**
+- 🔒 Network **Security & Automation**
+- ☁️ **Linux & Cloud** Infrastructure
+
+---
+
+📫 **Connect with me:**
+
+[![Discord](https://img.shields.io/badge/Discord-ab__0-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1310702066301403228)
+[![GitHub](https://img.shields.io/badge/GitHub-abunaseer1--1-181717?logo=github&logoColor=white)](https://github.com/abunaseer1-1)
+
+---
+
+⚡ **Fun fact:** I love experimenting with **servers & coffee ☕**
