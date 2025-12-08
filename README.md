@@ -1,6 +1,6 @@
 # 👋 Hi, IM AN
 
-💻 **Network Systems Engineer | Python & AI | CCNA Certified**
+💻 **Network Systems Engineer | Python & AI | CCNA CCNP Certified** 
 
 ---
 
